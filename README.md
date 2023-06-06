@@ -1,8 +1,9 @@
-# flutter_json_project
+# flutter_json_project Tugas Mobile
 
 A new Flutter project.
 
-## Getting Started
+## Nur Aisya Heri (60200120108)
+Kelas A
 
 This project is a starting point for a Flutter application.
 
